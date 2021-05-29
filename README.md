@@ -1,1 +1,1 @@
-# RctCS
+# RingCT Cheatsheet
