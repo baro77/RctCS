@@ -6,6 +6,8 @@ Pending review & -hopefully- approval to be hosted on Library section of Monero'
 
 A short introduction describing cheatsheet's strong (if any) and weak points is available it the form of a [companion article hosted on Medium](https://baro77.medium.com/monero-ringct-cheatsheet-8a9fcf580600?source=friends_link&sk=4504b16263b3beb4152498662bd4b9ae).
 
+[![RingCT](featured.png)](https://baro77.medium.com/monero-ringct-cheatsheet-8a9fcf580600?source=friends_link&sk=4504b16263b3beb4152498662bd4b9ae)
+
 ### Version History
 
 [20210604](https://github.com/baro77/RctCS/blob/main/RctCheatsheet20210604.pdf) - First issue
